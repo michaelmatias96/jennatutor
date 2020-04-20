@@ -1,0 +1,17 @@
+.about-desc {
+  font-size: 15px!important;
+}
+
+.background-image {
+  /* background-image: url(./background.jpg)!important; */
+  background-image: url(./background-new.png)!important;
+}
+
+.jenna-navbar {
+  background-color: #000000a8!important;
+  color: white!important;
+}
+
+.jenna-navbar-text {
+  color: white!important;
+}
